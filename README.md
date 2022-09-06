@@ -1,7 +1,7 @@
 # Mapping_Earthquakes
 Mapping Earthquakes with JS &amp; APIs
 ## Overview
-The purpose of this project is to visually show the magnitudes of earthquakes and all the earthquakes with a magnitude greater than 4.5 all over the world for the last seven days, and the earthquake data in relation to the tectonic plates’ location on the earth.
+The purpose of this project is to visually show the magnitudes of earthquakes and all the earthquakes with a magnitude greater than 4.5 all over the world for the last seven days, and also the earthquake data in relation to the tectonic plates’ location on the earth.
 
 ## Resources
 Data Source: 
